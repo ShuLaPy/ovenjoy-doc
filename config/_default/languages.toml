@@ -1,0 +1,29 @@
+[en]
+  languageName = "English"
+  contentDir = "content/en"
+  weight = 10
+  [en.params]
+    languageISO = "EN"
+    languageTag = "en-US"
+    footer = 'Made with ❤️ by <a class="text-muted" href="https://github.com/user/ShuLaPy">ShuLaPy</a>'
+
+[de]
+  languageName = "German"
+  contentDir = "content/de"
+  weight = 15
+  [de.params]
+    languageISO = "DE"
+    languageTag = "de-DE"
+    footer = 'Gebaut mit <a class="text-muted" href="https://github.com/user/ShuLaPy">ShuLaPy</a>'
+
+[nl]
+  languageName = "Nederlands"
+  contentDir = "content/nl"
+  weight = 20
+  [nl.params]
+    languageISO = "NL"
+    languageTag = "nl-NL"
+    titleAddition = "Modern documentatie-thema"
+    description = "Doks is een Hugo-thema waarmee je moderne documentatie-websites kunt bouwen die veilig, snel en klaar voor SEO zijn — standaard."
+    titleHome = "Doks thema"
+    footer = 'Mogelijk gemaakt door <a class="text-muted" href="https://github.com/user/ShuLaPy">ShuLaPy</a>'

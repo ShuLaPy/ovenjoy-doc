@@ -1,0 +1,33 @@
+// Put your custom SCSS code here
+html {
+  width: 100%;
+}
+
+.section {
+  padding-top: 0px;
+}
+
+.hero-section {
+  height: calc(100vh - 100px);
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home {
+  .wrap {
+    padding-left: unset;
+    margin-left: unset;
+  }
+}
+
+.section-description {
+  padding: 5rem 10rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .section-description {
+    padding: 20px;
+  }
+}
