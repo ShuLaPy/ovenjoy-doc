@@ -1,7 +1,7 @@
 # Images (@hyas/images)
 image:
   ## General
-  type: page # page (default) or global
+  type: global # page (default) or global
   widths: [480, 640, 768, 1024, 1366] # [600, 900, 1300] (default)
   densities: [1,2] # [1,2] (default)
   formats: [original, webp] # [original, webp] (default)
@@ -58,6 +58,9 @@ seo:
   jsonld_blog_posting_types: [post, posts, blog]
   image: "https://drive.google.com/uc?id=1tCDt1UE_2jkEC1vmfJ0n86p_IakDrWUH"
   private: false
+  schemas:
+    type: "Person"
+    images: ["https://drive.google.com/uc?id=1tCDt1UE_2jkEC1vmfJ0n86p_IakDrWUH"]
 
 # Inline SVG (@hyas/inline-svg)
 inline_svg:
