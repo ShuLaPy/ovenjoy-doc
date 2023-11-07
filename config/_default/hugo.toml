@@ -1,5 +1,5 @@
 # Hugo
-title = "Ovenjoy | Baking Delicious Web Servers with Bun"
+title = "Ovenjoy"
 description = "OvenJoy is a versatile Bun library designed to simplify routing and middleware management in your web applications. With OvenJoy, you can effortlessly define and manage routes, apply middleware, and handle HTTP requests like a pro."
 images = ['https://drive.google.com/uc?id=1tCDt1UE_2jkEC1vmfJ0n86p_IakDrWUH']
 baseurl = "https://ovenjoy.shubhamlad.in/"
@@ -21,6 +21,12 @@ disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
 copyRight = "Copyright (c) 2023 Shubham Lad"
+
+[params]
+  # home page profile
+  images = ['https://drive.google.com/uc?id=11cn1SC-hMlLKUvqtXb6TCmgrZAFLdVAG']
+  title = 'Ovenjoy | Baking Delicious Web Servers with Bun'
+  description = "OvenJoy is a versatile Bun library designed to simplify routing and middleware management in your web applications. With OvenJoy, you can effortlessly define and manage routes, apply middleware, and handle HTTP requests like a pro."
 
 [outputs]
   home = ["HTML", "RSS", "searchIndex"]
