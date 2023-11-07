@@ -1,5 +1,8 @@
-title = "Ovenjoy"
-baseurl = "/"
+# Hugo
+title = "Ovenjoy | Baking Delicious Web Servers with Bun"
+description = "OvenJoy is a versatile Bun library designed to simplify routing and middleware management in your web applications. With OvenJoy, you can effortlessly define and manage routes, apply middleware, and handle HTTP requests like a pro."
+images = ['https://drive.google.com/uc?id=1tCDt1UE_2jkEC1vmfJ0n86p_IakDrWUH']
+baseurl = "https://ovenjoy.shubhamlad.in/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
