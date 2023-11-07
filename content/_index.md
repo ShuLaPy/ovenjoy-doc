@@ -5,5 +5,5 @@ lead: "Baking Delicious Web Servers with Bun"
 date: 2023-09-07T16:33:54+02:00
 lastmod: 2023-09-07T16:33:54+02:00
 draft: false
-images: ["https://drive.google.com/uc?id=1tCDt1UE_2jkEC1vmfJ0n86p_IakDrWUH"]
+images: ['']
 ---
